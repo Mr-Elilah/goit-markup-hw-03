@@ -223,12 +223,9 @@ p {
 .team-section-list {
     display: flex;
     flex-wrap: wrap;
-    column-gap: 24px;
+    gap: 24px;
 }
 
-.team-section-list .team-section-list-item:last-child{
-    margin-right: 0;
-}
 .team-section-title {
     text-align: center;
     text-transform: capitalize;
