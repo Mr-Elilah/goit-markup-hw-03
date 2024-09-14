@@ -161,7 +161,7 @@ p {
     max-width: 496px;
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: 48px;
+    margin-bottom: 48px;
 
     font-weight: 700;
     font-size: 56px;
@@ -229,7 +229,6 @@ p {
 .team-section-title {
     text-align: center;
     text-transform: capitalize;
-    padding-top: 120px;
     margin-bottom: 72px;
 }
 
@@ -254,7 +253,6 @@ p {
     background: #ffffff;
     border-radius: 0 0 4px 4px;
     box-shadow: 0 2px 1px 0 #2e2f4214, 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-    margin-bottom: 120px;
 }
 
 /* our portfolio */
